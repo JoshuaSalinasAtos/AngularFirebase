@@ -1,2 +1,6 @@
 #Ignore CacheAngular
 .angular
+# Firebase
+.firebase
+*-debug.log
+.runtimeconfig.json
